@@ -1,0 +1,25 @@
+{
+  "name": "hex-strings",
+  "version": "1.0.0",
+  "description": "javascript functions to translate between ascii and hex strings",
+  "main": "hex-strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajoslin103/hex-strings.git"
+  },
+  "keywords": [
+    "javascript",
+    "hex",
+    "ascii",
+    "translation"
+  ],
+  "author": "Allen Joslin <allen.joslin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajoslin103/hex-strings/issues"
+  },
+  "homepage": "https://github.com/ajoslin103/hex-strings"
+}
