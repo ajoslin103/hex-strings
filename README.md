@@ -2,11 +2,11 @@
 
 javascript functions to translate between ascii and hex strings 
 
-## hex_to_ascii
+## hexToAscii
 
 translates a hex string back into it's original ascii
 
-## ascii-to-hex
+## asciiToHex
 
 translates an ascii string into a hex string
 
